@@ -20,6 +20,7 @@ int binarySearch(int a[], int n, int element) {
 }
 
 int main() {
+    cout<<"Name: Gautam Sharma"<<endl<< "Roll No.: 2329328"<<endl;
     int n;
     cout << "Enter the size of the array: ";
     cin >> n;

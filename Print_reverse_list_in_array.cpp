@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    cout<<"Name: Gautam Sharma"<<endl<< "Roll No.: 2329328"<<endl;
     const int maxSize = 100; // Maximum size of the array
     int arr[maxSize];
     int n;
