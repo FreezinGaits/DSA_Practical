@@ -15,12 +15,13 @@ int binarySearch(int a[], int n, int element) {
         else {
             start = mid + 1;
         }
-    }
+    } 
+    
     return -1; // Element not found
 }
 
 int main() {
-    cout<<"Name: Gautam Sharma"<<endl<< "Roll No.: 2329328"<<endl;
+    cout << "Name: Gautam Sharma" << endl << "Roll No.: 2329328" << endl;
     int n;
     cout << "Enter the size of the array: ";
     cin >> n;

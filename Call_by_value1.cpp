@@ -10,7 +10,6 @@ void swap(int x, int y) {
 int main()
 {
     int a,b;
-    cout<<"Name: Gautam Sharma"<<endl<< "Roll No.: 2329328"<<endl;
     cout<<"Enter two numbers: ";
     cin>>a>>b;
     cout<<"Numbers before swapping: "<<a<<" , "<<b<<endl;
